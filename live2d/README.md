@@ -1,11 +1,10 @@
-原项目出自一个大佬的博客，猫与向日葵。[阅读原文](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02 "阅读原文")  
-本文对于原文和原作有删改。  
+[阅读原文](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02 "阅读原文")  
 
-嘛，不少人对这个 Live2D 看板娘很感兴趣呢！
-纷纷让我写文章，而学长也是懒癌晚期，一直拖到现在 ~
+*转载  
+这个是我看到一个大佬的博客然后转载来的。存粹是爱好以及个人学习。
+这是大佬博客地址：https://www.calamus.xyz/
 
-好了，还是准备开始我们的教程吧！
-俗话说：“授人以鱼不如授人以渔”，但是说这个“渔”比较难教，还是给条“鱼”你完事了。
+
 
 ### 准备工作
 首先到我的 [Github](https://github.com/galnetwen/Live2D "Github") 去下载整理后的 Live2D 代码，毕竟整理后的话好下手 ~
